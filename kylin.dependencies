@@ -1,0 +1,18 @@
+[
+ {
+   "repository": "android_kernel_samsung_tuna",
+   "target_path": "kernel/samsung/tuna"
+ },
+ {
+   "repository": "android_device_samsung_tuna",
+   "target_path": "device/samsung/tuna"
+ },
+ {
+   "repository": "android_vendor_samsung_tuna",
+   "target_path": "vendor/samsung/tuna"
+ },
+ {
+   "repository": "android_vendor_samsung_maguro",
+   "target_path": "vendor/samsung/maguro"
+ }
+]
